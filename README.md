@@ -19,5 +19,4 @@ This repository serves as both a learning resource and a practical toolkit: each
 - Customer report — a consolidated report analyzing customer behavior and value
 - Product report — a consolidated report analyzing product performance
 
-## Who this is for
-Anyone working with SQL who wants practical, real-world query examples — from beginners building their analytical toolkit to experienced analysts looking for a quick reference.
+
